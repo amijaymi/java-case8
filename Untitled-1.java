@@ -1,0 +1,1 @@
+// class icinde int veya double i static tanimlarsak altta clas icindeki bir metodta eger o variabli i bi sekilde arti eksi guncelliyorsak statikte class icinde bunu guncel tutabiliyoruz ama static tanimlamazsak o variable in degeri hep ayni kalir.guncellenmez!!!!!
